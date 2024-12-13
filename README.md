@@ -92,11 +92,6 @@ DB_PASSWORD = 'bancoro6'
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Contact
 For issues or inquiries, please contact:
 - Email: laveratours2006@gmail.com
