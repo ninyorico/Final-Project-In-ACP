@@ -88,7 +88,7 @@ DB_PASSWORD = 'bancoro6'
 ---
 
 ## Authors
-- Developed by [Your Name or Team Name].
+- Developed by [Niño Rico C. Bancoro, Mat Jannus Deguzman, John MArk Jebulan, Lawrence Villalobos].
 
 ---
 
