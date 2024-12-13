@@ -39,7 +39,7 @@ This repository contains two Python applications designed for managing passenger
    - `bus1`: For managing bus assignments.
    - `adminuser`: For tour guide/admin credentials.
 
-Refer to the `CREATE TABLE` statements in the source code for detailed schemas.
+
 
 ---
 
